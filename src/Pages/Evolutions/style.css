@@ -1,0 +1,28 @@
+.title-name {
+    text-transform: capitalize;
+}
+
+.text-details {
+    color: #757575;
+}
+
+.text-capital {
+    text-transform: capitalize;
+}
+
+.container-img {
+    padding: 20% 20% 0 20%;
+    cursor: pointer;
+}
+
+.list-thumbnails {
+    cursor: pointer;
+}
+
+.img-fluid{
+    height: 50%;
+}
+
+#list-pokemon{
+    transform: translate(10% -88%) !important;
+}
